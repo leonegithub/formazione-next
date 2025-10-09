@@ -1,0 +1,382 @@
+{
+  "header": {
+    "company": {
+      "label": "Company",
+      "about_us": "About Us",
+      "90_years": "90 Years Leone",
+      "careers": "Careers",
+      "whistleblowing": "Whistleblowing",
+      "contacts": "Contacts"
+    },
+    "orthodontics": {
+      "label": "Orthodontics",
+      "products": "Products",
+      "digital_orthodontics": "Digital Orthodontics",
+      "news": "News",
+      "offers": "Offers",
+      "essenza": "Essence Philosophy",
+      "senza_russare": "Snore-Free",
+      "videos": "Videos and Procedures",
+      "bulletin": "Bulletin",
+      "publications": "Orthodontics Publications"
+    },
+    "implantology": {
+      "label": "Implantology",
+      "system": "Implant System",
+      "products": "Products",
+      "news": "News",
+      "offers": "Offers",
+      "software": "Software Libraries",
+      "procedures": "Procedures",
+      "xcn": "XCN® News",
+      "team": "XCN® Team",
+      "videos": "Videos",
+      "publications": "Implantology Publications"
+    },
+    "courses_events": {
+      "label": "Courses and Events",
+      "iso": "ISO",
+      "orthodontics_courses": "Orthodontics courses",
+      "implantology_courses": "Implantology courses",
+      "live_days": "Live Days",
+      "events": "Events",
+      "speakers": "Speakers",
+      "educational_videos": "Educational Videos"
+    }
+  },
+  "home": {
+    "welcome_message": "Welcome to the homepage"
+  },
+
+    "contatti": {
+    "title": "Contact us",
+    "nome": "Name",
+    "cognome": "Surname",
+    "email": "Email",
+    "messaggio": "Send us a message...",
+    "bottone": "Send"
+  },
+
+  "servizi": {
+     "assistenza_clienti": {
+    "expertise_title": "Expertise and Availability",
+    "expertise_text": "The assistance department, composed of technicians and engineers constantly undergoing professional updates, is always available to provide product information and resolve any issues. A team of professionals located throughout Italy, in coordination with Leone and the company’s commercial partners, offers its professional experience in the field of implantology, reliability, and support to fellow doctors.",
+    "timeliness_title": "Timeliness",
+    "timeliness_text": "Careful management and a cutting-edge logistics system allow us to fulfill orders with maximum precision and deliver goods to the carrier on average within 1 business day.",
+    "form": {
+      "name": "Name",
+      "surname": "Surname",
+      "email": "Email address",
+      "phone": "Phone number",
+      "upload_file": "Upload a file",
+      "send": "Send"
+    }
+  },
+    "downloads": {
+    "no_records_found": "Nessun record trovato",
+    "loading": "Caricamento...",
+    "catalogues": "Cataloghi",
+    "depliants": "Depliant"
+    },
+    "newslist": {
+        "title": "Subscribe to the Newsletter",
+         "personal_data": "Personal data",
+      "receive": "I would like to receive",
+    "name": "Name",
+    "surname": "Surname",
+    "address": "Address",
+    "zip_code": "Zip code",
+    "city": "City",
+    "country": "Country",
+    "language": "Language",
+    "phone": "Phone",
+    "email": "Email",
+    "occupation": "Occupation",
+        "personal_data_processing": "Personal data processing",
+        "personal_data_text": "Pursuant to Article 13 of EU Regulation 2016/679, we inform you that your data is processed in compliance with the data protection regulations for contractual and administrative purposes. Such data is processed with the observance of all precautionary measures on security and confidentiality.",
+        "read_full_information": "Read the full information",
+        "i_consent": "I consent",
+        "i_do_not_consent": "I do not consent",
+        "subscribe_label": "Subscribe to the Leone Newslist",
+        "subscribe_text": "In compliance with EU Regulation 2016/679, we ask for your consent to process your personal data in order to keep you informed about all our cultural, educational (events, courses, Orthodontic Bulletin, XCN news, etc.) and commercial (catalogs, offers) initiatives promoted by us.",
+        "send": "Send",
+         "products": {
+      "orthodontic_catalogue": "Orthodontic Catalogue",
+      "general_implantology_catalogue": "General catalogue for Implantology",
+      "step_system_info": "Information about Step System",
+      "full_documentation": "Full documentation",
+      "leaf_atlas": "Leaf Expander clinical atlas Book Dr. Roberto Ferro"
+    }
+      }
+      
+    },
+    "pubblicazioni": {
+   "ortodonzia": {
+     "title": "Orthodontics publications and literature",
+     "goto": "Go to publication",
+     "notFound": "No results found"
+   },
+   "implantologia": {
+     "title": "Implantology publications and literature",
+     "goto": "Go to publication",
+     "notFound": "No results found"
+   }
+ },
+
+  "distributors": {
+    "ortodonzia": {
+      "selection": "Make a selection",
+      "tipology": "Choose geographical area",
+      "section": "Section",
+      "filters": "Reset filters",
+      "find_something": "Look for something",
+      "distributors": "Distributors",
+      "results_found": "Results found",
+      "not_found": "No results found"
+    }
+  },
+
+  "qualita": {
+    "filter_results": "Filter results",
+    "no_elements_found": "No elements found",
+    "istruzioni": {
+      "title": "Quality",
+      "subtitle": "General Guidelines",
+      "text": "Leone products are intended exclusively for orthodontic, implant, and dental use and must be used solely by specialized and legally authorized personnel who will be solely responsible for the construction and application of prostheses made in whole or in part with the aforementioned products. For their proper functioning, the combined use with other original Leone products, accessories, and instruments is recommended. Except for instruments, all Leone products are designed and manufactured for single use only. After being removed from the patient's mouth, they must be disposed of in the appropriate manner according to current regulations. We assume no responsibility for any possible damages, injuries, or other issues caused by the reuse of products declared for single use. Decontaminate and sterilize products that have come into contact with a different patient before use. The effects of metal orthodontic and implant devices should be carefully monitored during an MRI (Magnetic Resonance Imaging) examination. It is recommended that the patient be instructed to inform the MRI technician of the presence of any type of dental device or material before the examination. Ceramic and polymer products (except for certain items containing medical barium) are not radiopaque. For more information, consult the reference documentation.",
+      "link": "Interactions between orthodontic and dental implant devices and diagnostic imaging examinations.",
+      "info": ""
+    },
+    "schede_di_sicurezza": {
+      "numero_telefonico": "Emergency phone numbers"
+    },
+    "sistema_di_qualita": {
+      "title": "Quality",
+      "subtitle": "Quality for customer satisfaction",
+      "text": "The secret to guarantee a good quality of the product is that of meeting or even exceeding the customer's expectations: the awareness of such expectations is the first step, perhaps the most important step, to furnish a quality product as a standard. The manufacture of superior quality products in respect of the expectations and the demands of the customer and in attendance of the legally binding directives has always been the philosophy of Leone. It implies that any company department, at any level, is called to share such goals supporting the Management in the fulfilment of the necessary operational strategies. The management quality system of the company Leone is conforming to ISO 9001, additional requirements of ISO 13485 and according to the European provisions on medical devices and to ISO 13485 MDSAP for regulatory requirements of Australia, Brazil, Canada, Japan and USA.",
+      "link1_title": "Safety data sheet",
+      "link1_url": "/safety-data-sheet",
+      "link2_title": "Product information",
+      "link2_url": "/product-information",
+      "link3_title": "Information for distributors",
+      "link3_url": "sistema-di-qualita/info-distributori",
+      "link4_title": "Interactions between dental devices and medical imaging techniques",
+      "link4_url": "https://www.leone.it/servizi/qualita/LeoneSpa_RMI-TC_December2022.pdf",
+      "link5_title": "Instruction for instruments sterilization",
+      "link5_url": "https://leone.it/servizi/qualita/Instruction_for_instruments_sterilization-rev1.pdf",
+      "link6_title": "Guidelines for cleaning, disinfection and sterilization of reusable XCN® Leone instruments",
+      "link6_url": "https://leone.it/servizi/download/Implantology-cleaning-disinfection-sterilization.pdf"
+    },
+    "info-prodotti": {
+      "title": "Product label symbols",
+      "text": "The label on the package of any medical device set on the market will show the symbols in compliance with the harmonized standards. The symbols marked with a single (*) are based on the ISO 21531, ISO 15223-1 and on the 93/42EEC Directive. The symbols marked with double (**) have been instead adapted by Leone.",
+      "under_image": "*Unless otherwise indicated, the LOT number explains the date of manufacture with the key YYMMDDNN (YY year, MM month, DD day, NN Leone progressive internal number of the lot). For example: 18021902 indicates the lot no. 2 of February 19, 2018."
+    },
+    "info_distributori": {
+      "title": "Quality",
+      "subtitle": "Information note for Distributors: European Regulation on Medical Devices, traceability and new requirements",
+      "text": "The European Regulation (EU) 2017/745 on Medical Devices (MDR), came into force on May 26, 2021, imposes compliance obligations not only on manufacturers but also on all other economic operators in the supply chain, such as 'distributors' (in the sense of what is specifically defined in the regulation itself), with regard to verification, traceability and post-marketing surveillance (e.g. notification to the manufacturer of any non-compliance, complaints or suspected incidents). For further information, please visit the following web site: https://ec.europa.eu/docsroom/documents/33862 where you can find a factsheet issued by the European Commission, available in every language for any Member State. Among the range of dental devices supplied by Leone Spa, there are also products that qualify as medical devices for dental use, and, as a retailer of the aforementioned products, your organization will assume the qualification of 'distributor', in accordance with the aforementioned regulation. Among responsibilities of distributor (Art. 14 of the MDR), there is the traceability of medical devices (Art. 25 of the MDR), which must be documented and made available for the control of the competent authorities, up to 15 years for implantable medical devices and 10 years for other dental medical devices. Leone S.p.a. has always paid the utmost attention to compliance with current regulations. We therefore take this opportunity to remind you of the importance of respecting the new legislative regulations in order to ensure the continuity of our mutual commercial relations."
+    }
+  },
+
+  
+
+  "chi_siamo": {
+    "description_1": {
+      "title": "Leone Company: Reliability and Expertise",
+      "text": "Professionalism, experience, and innovation make Leone the leading Italian company in the production of dental products. Attentive to the rapid evolution of the market and the needs of customers, the company places particular emphasis on production capacity, quality, and service: the qualified sales force works closely with a network of exclusive distributors, also providing technical training and support. The great attention to detail is also the reason why Leone is synonymous with high quality: each product is designed with meticulous care and attention."
+    },
+    "description_2": {
+      "title": "Culture and Training",
+      "text": "Leone organizes and promotes a wide range of scientific and educational activities for learning and deepening. Theoretical and clinical orthodontic courses or basic and advanced oral surgery courses are just a few examples of the extensive training and technical scientific updating program for doctors, dental technicians, and commercial operators that the company offers. The company also manages and promotes these activities, collaborating with speakers, university professors, and highly specialized professionals for the organization of courses and for the drafting and publication of scientific articles. Through the use of new digital channels, Leone also complements in-person and practical training with distance learning, ensuring continuous educational dissemination. There is also close collaboration with numerous Italian universities, particularly with the faculties of Engineering and Medicine, where internships and theses are organized."
+    },
+    "description_3": {
+      "title": "A Reality Always Growing",
+      "text": "Significant annual investments are reserved for research and technology: within Leone's facilities is the 'Marco Pozzi' Biotechnological Dental Research Center, where state-of-the-art equipment is used for quality control tests, material and surface studies, and technical analysis of new products. The high quality of all Leone products is indeed the result of sophisticated manufacturing techniques and a thorough quality control compliant with UNI EN ISO 9001 and ISO 13485 standards: since 1934, the spirit of Leone has been dedicated to ensuring a continuous and constant improvement of the product for customer satisfaction."
+    },
+    "description_4": {
+      "title": "Behind Innovation: Our History",
+      "text": "The company, today a high-level technological and commercial industrial reality, started as a small artisanal activity in 1934, thanks to Mario Pozzi. Shortly after, he decided to adopt the head of the Marzocco, a symbol of Florentine excellence, as a brand, thus beginning the story of Leone. He passed away in 1961, and his son Alessandro continued the business, developing the production and commercialization of Leone products in Italy and abroad. For years, Alessandro worked tirelessly, reaching today's milestones, assisted since the late '90s by his daughter Elena, the current sole administrator of the company. Since 1993, Leone has been part of OMA (Orthodontic Manufacturers Association – USA), which brings together the 12 global manufacturers of orthodontic products. In 2002, the company expanded its production by introducing the 'Leone Implant System' to the dental market, a complete line of implantology products. In 2017, the acquisition of LeoneAmerica, the distributor in the USA market, occurred, and sales activities were strengthened through investments in the French subsidiary Odontec. Finally, in 2019, from Leone's experience, Digital Service Leone was born, the innovative startup that supports Dentists and Orthodontists with high-digital-content products and tools. DSL originates from the parent company's research experience and is enriched with new IT support services thanks to the participation of Adiacent by Var Group, one of the largest players leading the digital transformation of Italian companies. Today, Leone spans an area of about 15,000 square meters and hosts production and industrial facilities, where about 160 people work."
+    }
+  },
+
+  "90anni": {
+    "new_global_identity2": {
+      "title1": "Looking to the Future with a New Image",
+      "paragraph1": "We are well aware of the importance of tradition, but we also understand that evolution is an inevitable constant. This led us to a deep reflection on our corporate image and guided us toward a renewal that wisely blends the past with the future. The change in the logo, one of the most visible and recognizable parts of the corporate identity, represented a complex process. We decided to keep the design intact, a distinctive element of our logo and a symbol that has become recognizable over the decades, but at the same time, we made subtle yet significant changes.",
+      "paragraph2": "The retro style of the '60s was refined and modernized, while the lines and colors were made more vibrant and contemporary. This renewal does not represent a break from our tradition but rather demonstrates our momentum toward the future. The removal of the oval and the inclination of the letters have become the tangible symbol of this new direction, which testifies to the company's determination to go beyond predefined boundaries, established traditions, and limits. The goal is to remain at the forefront, embracing change and giving both Leone and its subsidiaries a global identity. From a graphical perspective, the logo was optimized to ensure effective display on mobile devices and on large surfaces like exhibition stands. This change represented a highly significant step, with a substantial impact on the company's perception. It has resulted in a new logo that, while preserving the design of the Leone name, an iconic element of the brand, was designed and developed to be dynamic, modern, flexible, and, above all, to enhance what the company represents today: a solid reality looking toward the future.",
+      "title2": "A Tangible Commitment",
+      "paragraph3": "For nearly a century, we have built our company with hard work, innovation, and commitment to our customers. We have been able to withstand economic challenges, technological changes, and industry dynamics, emerging stronger and ready to face new challenges, setting high standards of quality and delivering products and services that have improved the lives of many people worldwide. Our tradition is a source of pride, but we also recognize the need to evolve to keep up with the times. The world is changing rapidly; we are witnessing a growing environmental awareness and the need to address global challenges such as climate change. As a company, we believe it is our duty to embrace change and take responsibility for our impact on the environment and society. We are excited to share this journey with you, our partners and customers, as we build a better future together!"
+    },
+    "storia": {
+      "main-title": "Behind innovation, our history",
+      "title1": "1930s - 1940s",
+      "text1": "In the 1930s and 1940s, the Mario Pozzi company was founded in 1934 to produce stainless steel dental caps. During World War II, obtaining raw materials became difficult due to military priorities, reducing production to a minimum. Florence was bombed, but Pozzi's workshop remained unharmed. Despite the difficulties, the company persevered, and at the end of the war, it moved production to a larger workshop. In 1945, under the brand Leone, it became the leading Italian manufacturer of stainless steel dental caps and other products for the dental sector.",
+      "title2": "1950s - 1960s",
+      "text2": "In the 1950s and 1960s, Western Europe experienced a phase of intense industrialization and development, and Italy recorded unprecedented economic growth, known as the 'Economic Miracle.' This transformation led to increased consumption and new lifestyles, with cars, household appliances, and television becoming commonplace. Wages rose, spreading wealth across multiple social strata, especially in urban centers. In 1961, Mario passed away at the age of 54. During the economic boom, his son Alessandro shifted Leone's production towards orthodontics, a growing sector influenced by the American model of health and beauty. Alessandro's choice proved successful, allowing Leone to innovate, grow, and thrive in the Italian and international dental community.",
+      "italic1": "“A child without a smile is like a garden without flowers.”",
+      "title3": "The Flood of Florence in 1966",
+      "italic2": "“For half of Tuscany, there flows a stream that rises in Falterona, and a hundred miles of course does not satisfy.” Dante (Purgatorio)",
+      "text3": "On the night of November 3-4, 1966, Florence was struck by a devastating flood caused by the Arno River overflowing after heavy rains. Many neighborhoods, including the historic center, were submerged by waters exceeding five meters in height. The flood caused immeasurable economic and artistic damage. Leone, with its workshop on Via Galliano, was also submerged by the muddy waters of the river. Despite the damage, thanks to the determination of Alessandro and his collaborators, the company resumed production and fulfilled orders after just over a month, demonstrating great resilience in the face of devastation.",
+      "title4": "The New Era",
+      "text4": "In 1969, when astronaut Neil Armstrong set foot on the lunar surface, he uttered the iconic words: “That's one small step for man, one giant leap for mankind.” Leone has experienced continuous and significant growth since its inception, becoming a leader in the orthodontic and implant sector. In the 1970s, the company expanded internationally and introduced a line of fixed orthodontics in Italy. In the 1980s, driven by the economic momentum of the Craxi era, it moved to a new headquarters and, in collaboration with ISO (Institute of Odontological Studies), created a planned and organized educational activity that immediately achieved great success. The 1990s saw Leone produce its own line of fixed orthodontics in-house, leading to the construction of a new industrial site in Sesto Fiorentino. From the 2000s onwards, the company launched an innovative implant line and embraced emerging digital technologies. Today, under the leadership of Elena Pozzi, Leone continues its path of growth and innovation.",
+      "title5": "The New Millennium",
+      "text5": "In the 2000s, Leone made significant strides in the implant sector with the revolutionary Exacone system. At the same time, the Euro became the single currency and digital technology underwent rapid evolution. In 2010, Elena Pozzi took over the company's leadership, introducing innovations such as anti-snoring devices and the Leaf Expander, as well as founding the 3DLeone department for dental software. In 2019, Leone launched Digital Service Leone, specializing in invisible orthodontics. The Covid-19 pandemic in 2020 accelerated digitalization and reorganized social contacts. Leone opened branches in America and France, and Elena's children, Olivia and Vittorio, represent the fourth generation of the family, ready to carry the company forward with a modern vision."
+    },
+
+    "title": "Tradition meets the future, our journey 90 years after the foundation",
+    "intro1": "2024 marks an extraordinary milestone: 90 years of commitment, dedication, and success. A journey that has taken us through decades of changes, innovations, and constant growth. But how can we honor our long tradition while also looking to the future?",
+    "intro2": "The answer is simple and can be summed up in a few words: Tradition Meets the Future. The new claim represents a bridge between the past and the present, between the company's deep roots and the aspiration to innovate and grow with a bold and forward-looking vision, with special attention to the digital world.",
+    "new_global_identity": "New global identity",
+    "history": "Behind innovation and our history"
+  },
+
+  "urls": {
+    "azienda": "company",
+    "about_us": "about-us",
+    "90_years": "90-years-leone",
+    "careers": "careers",
+    "whistleblowing": "whistleblowing",
+    "contacts": "contacts",
+    "orthodontics": "orthodontics",
+    "implantology": "implantology",
+    "courses_events": "courses-events"
+  },
+
+  "footer": {
+    "services": "Services",
+    "downloads": "Downloads",
+    "newslist": "Newslist",
+    "customer_support": "Customer Support",
+    "restricted_area": "Restricted Area",
+    "whistleblowing": "Whistleblowing",
+    "scientific_publications": "Scientific Publications",
+    "orthodontics": "Orthodontics",
+    "implantology": "Implantology",
+    "quality": "Quality",
+    "quality_system": "Quality System",
+    "safety_sheets": "Safety Sheets",
+    "instructions": "Instructions",
+    "distributors": "Distributors",
+    "careers": "Careers",
+    "copyright": "© 2024 Leone SpA. All Rights Reserved.",
+    "worldwide": "Worldwide distributors"
+  },
+
+  "login": {
+    "title": "Login into your personal Leone account"
+  },
+
+
+  "register": {
+    "title": "Create your Leone account",
+    "name": "Name",
+    "cognome": "Surname",
+    "attivita": "Business Name (optional)",
+    "paese": "Select Country",
+    "indirizzo": "Address",
+    "cap": "Zip Code",
+    "citta": "City",
+    "professione": {
+      "title": "Profession",
+      "clinica": "DENTAL CLINIC",
+      "dentista": "DENTIST",
+      "laboratorio": "LABORATORY"
+    },
+    "registrati": "Register"
+  },
+
+  "cookiePolicyTitle": "Cookie Policy",
+  "cookiePolicyDescription": "Leone S.p.a., headquartered in Sesto Fiorentino (FI), Via P. a Quaracchi, n° 50, VAT n° 01686960483, as the Data Controller through the legal representative pro tempore, informs visitors of the site www.leone.it – pursuant to and for the purposes of Article 13 of Regulation EU 2016/679 (General Data Protection Regulation, hereafter GDPR) – about the type of cookies used and the purposes pursued through the information thus acquired.",
+
+  "whatAreCookies": "What are cookies and what are they for",
+  "whatAreCookiesDescription": "Cookies are small text strings that the website sends to the user's device (usually to the browser), where they are stored and later sent back to the same website upon the user's next visit (so-called first-party cookies). They assist the Data Controller in delivering the service based on the different purposes pursued. Some of these purposes may require the user's consent; such consent can be freely revoked at any time by following the instructions in this document.",
+
+  "cookieTypes": "Types of Cookies",
+  "cookieTypesDescription": "Cookies can be limited to a single browsing session (so-called session cookies) and automatically disabled when the browser is closed, or they can have a preset expiration date (so-called persistent cookies) and remain active until that time, continuing to collect information over multiple browsing sessions. For a complete description of these tools, further distinctions based on their technical characteristics are necessary. Cookies are used for various functions: some are necessary to allow the user to browse the website and use its features (technical cookies); others are used to obtain statistical information, in aggregated or non-aggregated form, on the number of users accessing the site and how it is used (so-called analytics cookies); others are used to track the consumer's profile and allow the user to view advertisements consistent with their tastes and consumption habits (so-called profiling cookies).",
+
+  "googleAnalytics": "Google Analytics",
+  "googleAnalyticsDescription": "Our website uses a third-party cookie, namely Google Analytics. This cookie is not our property, and for more information, you can consult Google's information at the following link: http://www.google.it/policies/privacy/partners/. If you prefer that Google Analytics does not use the collected data in any way, you can: use the anonymous browsing (Do Not Track) option of your browser. To learn how to enable this option on the main search engines, click on the browser you use: Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari. To disable Google Analytics, you can install the browser add-on for deactivation.",
+
+  "cookieTable": {
+    "name": "Name",
+    "domain": "Domain",
+    "path": "Path",
+    "value": "Value",
+    "description": "Description",
+    "phpSessionDescription": "PHP session start",
+    "bannerDentalDescription": "Banner for professionals in the dental sector",
+    "bannerPolicyDescription": "Cookies policy banner",
+    "googleAnalyticsDescription": "Google Analytics"
+  },
+
+  "howToDisableCookies": "How to disable cookies",
+  "howToDisableCookiesDescription": "Technical and functional cookies are installed automatically and do not require the user's consent. However, the user can generally decide whether to accept cookies directly using their browser settings and prevent – for example – third parties from installing them by following the procedures described at the following addresses:",
+
+  "browserInstructions": {
+    "edge": "Microsoft Edge:",
+    "edgeLink": "https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd",
+    "firefox": "Mozilla Firefox:",
+    "firefoxLink": "https://support.mozilla.org/en-US/kb/enabledisable-cookies",
+    "chrome": "Google Chrome:",
+    "chromeLink": "https://support.google.com/chrome/answer/95647?hl=en",
+    "safari": "Safari:",
+    "safariLink": "https://support.apple.com/en-us/HT201265",
+    "opera": "Opera:",
+    "operaLink": "http://help.opera.com/Windows/10.00/en/cookies.html"
+  },
+
+  "rights": "Rights",
+  "rightsDescription": "You can exercise your rights at any time under Articles 15 and following of Regulation EU 2016/679. For more information on exercising your rights, please refer to the Privacy Policy.",
+
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "subtitle": "pursuant to Article 13 of EU Regulation 679/2016 concerning the protection of individuals with regard to the processing of personal data (‘GDPR’)",
+    "intro": "With this notice, Leone S.p.a. provides information regarding the processing of personal data of the User carried out through this website www.leone.it, confirming from now on that such processing will be based on the principles of fairness, lawfulness, transparency, and the protection of the User's privacy and rights.",
+    "section1_title": "1. Data Controller",
+    "section1_content": "The Data Controller is Leone S.p.a., with registered office in Sesto Fiorentino (FI), Via P. a Quaracchi, n° 50, VAT n° 01686960483, represented by the legal representative. Email address: privacy@leone.it",
+    "section2_title": "2. Types of Data Processed",
+    "section2_content": "Leone S.p.a. may process data related to the User's visits to the website, as well as any other data collected in the various sections of the site and/or through the various contact channels made available. Below is a list of the data subject to processing:",
+    "data_navigation": "Navigation Data: the information systems and software procedures used to operate this website may acquire, during their normal operation, certain data whose transmission is implicit in the use of Internet communication protocols.",
+    "data_cookies": "Data related to Cookies (for more detailed information, please refer to the Cookie policy).",
+    "data_cv": "Personal data, contact information, and information related to education, skills, and current employment collected through the ‘Work with us’ form, as well as any other data present in the attached CV (including sensitive data and any photographs).",
+    "data_email": "Data collected following the User's sending of requests via email to the contact addresses indicated on the site to receive information or request a specific service.",
+    "data_forms": "Personal data, contact information, and profession provided by the User through the various forms available on the site (Download STL File, Training, Newslist, Newsletter Subscription, and Reserved Area).",
+    "data_billing": "Personal data, contact information, billing, and payment information provided by the User to request a free trial of the 3D Leone Designer software and/or to purchase the same.",
+    "section3_title": "3. Data Provision",
+    "section3_content": "The provision of personal data marked with an asterisk (*) is mandatory to send the request and/or benefit from the service, and any refusal to provide them would make it impossible to submit the same and obtain the desired service. The provision of additional data is purely optional.",
+    "section4_title": "4. Purposes of Processing and Legal Bases",
+    "section4_content": "The data provided will be processed in compliance with the legal requirements pursuant to Article 6 of the GDPR for the following purposes:",
+    "section4_contractual": "To execute all contractual and pre-contractual measures taken at the request of the interested User as well as all related operational and management needs.",
+    "section4_legal": "To comply with legal obligations to which the Data Controller is subject.",
+    "section4_registration": "To allow the User to register in the 'Reserved Area' and/or to use the services offered through the various sections of the site.",
+    "section4_requests": "To execute the requests of the User and respond to questions posed through the various contact channels.",
+    "section4_newsletter": "Only with the express consent may the data be processed to offer the newsletter and/or newslist service.",
+    "newsletter1": "Newsletter: communications about products, events, and training activities;",
+    "newsletter2": "Leone Information Bulletin: articles with clinical applications of Leone products and commercial information on new products;",
+    "newsletter3": "Exacone News: articles with clinical applications and information on new products;",
+    "newsletter4": "Updated Orthodontics Catalog;",
+    "newsletter5": "Updated Implantology Catalog;",
+    "newsletter6": "Brochures for Implantology products;",
+    "newsletter7": "Brochures for Orthodontics products;",
+    "newsletter8": "Brochures on regenerative materials (Biomimetic line);",
+    "newsletter9": "Brochures on Educational Activities ISO-Leone.",
+    "section5_content": "The Data Controller performs necessary treatments in compliance with the regulations. The data will be kept for the time necessary to achieve the purposes for which they were collected and to comply with legal obligations.",
+    "section6_title": "6. Data Transfer",
+    "section6_content": "Your personal data is stored on servers located within the European Union and no transfer outside the EU is made.",
+    "section7_title": "7. Categories of Data Recipients",
+    "section7_content": "The User's data will not be disseminated, disclosed, or made known to indeterminate subjects in any way.",
+    "section7_legal_access": "Data accessible in case of legal obligations.",
+    "section7_third_parties": "Not shared with third parties.",
+    "section7_dealers": "Accessible only to authorized dealers.",
+    "section7_other_companies": "Will not be shared with other companies.",
+    "section8_title": "8. Rights of the Data Subject",
+    "section8_content": "Pursuant to Articles 15 et seq. of the GDPR, the User may exercise, at any time and where applicable, the following rights:",
+    "rights_access": "Access to personal data being processed.",
+    "rights_deletion": "Request correction or deletion of their data.",
+    "rights_opposition": "Request to object to the processing.",
+    "rights_portability": "Request data portability.",
+    "rights_withdrawal": "Withdraw consent for data processing.",
+    "section8_contact": "For any information and to exercise the rights mentioned above, the User may contact the Data Controller at the email address privacy@leone.it.",
+    "section8_reclamation": "If you believe that the processing is not compliant with the GDPR, the User has the right to lodge a complaint with the supervisory authority."
+  }
+}

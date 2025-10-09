@@ -1,0 +1,13 @@
+/* Rimuove il background grigio del dropdown */
+.flowbite-dropdown-item:hover {
+    background-color: transparent !important;
+}
+
+/* Personalizza l'hover del testo */
+.flowbite-dropdown-item:hover span {
+    color: #1d4ed8 !important; /* Colore blu per il testo in hover */
+}
+
+nav .flex.w-full:hover {
+    background-color: var(--grigio);
+}

@@ -1,0 +1,385 @@
+{
+  "header": {
+    "company": {
+      "label": "Azienda",
+      "about_us": "Chi siamo",
+      "90_years": "90 Anni Leone",
+      "careers": "Lavora con noi",
+      "whistleblowing": "Whistleblowing",
+      "contacts": "Contatti"
+    },
+    "orthodontics": {
+      "label": "Ortodonzia",
+      "products": "Prodotti",
+      "digital_orthodontics": "Ortodonzia digitale",
+      "news": "Novità",
+      "offers": "Offerte",
+      "essenza": "Filosofia Essenza",
+      "senza_russare": "Senza Russare",
+      "videos": "Video e procedure",
+      "bulletin": "Bollettino",
+      "publications": "Pubblicazioni ortodonzia"
+    },
+    "implantology": {
+      "label": "Implantologia",
+      "system": "Sistema Implantare",
+      "products": "Prodotti",
+      "news": "Novità",
+      "offers": "Offerte",
+      "software": "Librerie per Software",
+      "procedures": "Procedure",
+      "xcn": "XCN® News",
+      "team": "XCN® Team",
+      "videos": "Video",
+      "publications": "Pubblicazioni implantologia"
+    },
+    "courses_events": {
+      "label": "Corsi ed eventi",
+      "implantology_courses": "Corsi implantologia",
+      "orthodontics_courses": "Corsi di ortodonzia",
+      "events": "Eventi",
+      "iso": "ISO",
+      "live_days": "Giornate Live",
+      "speakers": "Relatori"
+    }
+  },
+  "home": {
+    "welcome_message": "Benvenuto nella pagina principale"
+  },
+
+  "contatti": {
+    "title": "Contattaci",
+    "nome": "Nome",
+    "cognome": "Cognome",
+    "email": "Email",
+    "messaggio": "Scrivi un messaggio...",
+    "bottone": "Invia"
+  },
+
+  "servizi": {
+     "assistenza_clienti": {
+    "expertise_title": "Competenza e disponibilità",
+    "expertise_text": "Il reparto assistenza, composto da tecnici e ingegneri costantemente aggiornati professionalmente, è sempre disponibile per fornire informazioni sui prodotti e risolvere qualsiasi problematica. Un team di professionisti dislocati su tutto il territorio nazionale, in coordinamento con Leone e i partner commerciali dell’azienda, offre la propria esperienza professionale nel campo dell’implantologia, affidabilità e supporto ai colleghi medici.",
+    "timeliness_title": "Tempestività",
+    "timeliness_text": "Una gestione attenta e un sistema logistico all’avanguardia ci permettono di evadere gli ordini con la massima precisione e di consegnare la merce al corriere mediamente entro 1 giorno lavorativo.",
+    "form": {
+      "name": "Nome",
+      "surname": "Cognome",
+      "email": "Indirizzo email",
+      "phone": "Numero di telefono",
+      "upload_file": "Carica un file",
+      "send": "Invia"
+    }
+  },
+    "downloads": {
+    "no_records_found": "Nessun record trovato",
+    "loading": "Caricamento...",
+    "catalogues": "Cataloghi",
+    "depliants": "Depliant"
+    },
+     "newslist": {
+      "title": "Iscriviti alla Newsletter",
+      "personal_data": "Dati personali",
+      "receive": "Desidero ricevere",
+      "name": "Nome",
+      "surname": "Cognome",
+      "address": "Indirizzo",
+      "language": "Lingua",
+      "country": "Paese",
+      "zip_code": "Cap",
+      "city": "Città",
+      "state": "Provincia",
+      "phone": "Numero di telefono",
+      "email": "Email",
+      "occupation": "Professione",
+      "personal_data_processing": "Trattamento dei dati personali",
+      "personal_data_text": "Ai sensi dell'art. 13 del Regolamento UE 2016/679, ti informiamo che i tuoi dati sono trattati in conformità alla normativa sulla protezione dei dati per finalità contrattuali e amministrative. Tali dati sono trattati con tutte le misure precauzionali di sicurezza e riservatezza.",
+      "read_full_information": "Leggi l'informativa completa",
+      "i_consent": "Do il consenso",
+      "i_do_not_consent": "Non do il consenso",
+      "subscribe_label": "Iscriviti alla Newslist Leone",
+      "subscribe_text": "In ottemperanza al Regolamento UE 2016/679, ti chiediamo il consenso al trattamento dei tuoi dati personali per tenerti informato su tutte le nostre iniziative culturali, formative (eventi, corsi, Bollettino di Ortodonzia, novità XCN, ecc.) e commerciali (cataloghi, offerte) promosse da noi.",
+    "send": "Invia",
+      "products": {
+      "catalogo_ortodonzia": "Catalogo Ortodonzia",
+      "bollettino": "Bollettino di Informazioni Leone",
+      "xcn_news": "XCN News",
+      "catalogo_implantologia": "Catalogo generale Implantologia",
+      "doc_implantologia": "Documentazione completa Implantologia",
+      "doc_ortodonzia": "Documentazione completa Ortodonzia",
+      "doc_allineatori": "Documentazione allineatori ortodontici",
+      "doc_completa": "Documentazione completa",
+      "atlante_leaf": "Atlante clinico Leaf Expander Dr. Roberto Ferro",
+      "flussi_digitali": "Flussi digitali protesici per impianti a cono Morse - Dr. Salvatore Belcastro, Dr. Alessio Natali"
+    }
+    }
+  },
+
+  "pubblicazioni": {
+    "ortodonzia": {
+      "title": "Pubblicazioni Ortodonzia",
+      "goto": "Vai alla pubblicazione",
+      "notFound": "Nessun risultato trovato"
+    },
+    "implantologia": {
+      "title": "Pubblicazioni Implantologia",
+      "goto": "Vai alla pubblicazione",
+      "notFound": "Nessun risultato trovato"
+    }
+  },
+
+  "distributors": {
+    "ortodonzia": {
+      "selection": "Effettua una selezione",
+      "tipology": "Tipologia",
+      "section": "Sezione",
+      "filters": "Resetta i filtri",
+      "find_something": "Cerca qualcosa in pagina",
+      "distributors": "Distributori",
+      "results_found": "Risultati trovati",
+      "not_found": "Nessun risultato trovato"
+    }
+  },
+
+  "qualita": {
+    "filter_results": "Filtra i risultati",
+    "no_elements_found": "Nessun risultato trovato",
+    "istruzioni": {
+      "title": "Qualità",
+      "subtitle": "Indicazioni generali",
+      "text": "I prodotti Leone sono destinati ad esclusivo uso ortodontico, implantologico ed odontoiatrico e devono essere utilizzati unicamente da personale specializzato e legalmente abilitato che rimarrà unico responsabile della costruzione e della applicazione delle protesi realizzate in tutto o in parte con i suddetti prodotti. Per il loro corretto funzionamento, si raccomanda l’utilizzo congiunto con altri articoli, accessori e strumenti originali Leone. Ad eccezione degli strumenti, tutti i prodotti Leone sono progettati e costruiti per essere utilizzati una sola volta. Dopo essere stati tolti dalla bocca del paziente, devono essere smaltiti nella maniera più idonea e secondo le leggi vigenti. Non ci assumiamo alcuna responsabilità circa possibili danni, lesioni od altro causati dalla riutilizzazione dei prodotti dichiarati monouso. Decontaminare e sterilizzare prima dell’utilizzo i prodotti che sono venuti a contatto con un diverso paziente. Gli effetti dei dispositivi ortodontici e implantologici in metallo dovrebbero essere monitorati con cautela durante l’esame di RMI (Risonanza Magnetica per Immagine). Si raccomanda di istruire il paziente di segnalare preventivamente al personale radiologo incaricato dell’esame di RMI, la presenza in bocca di qualsiasi tipologia di dispositivo e di materiale dentale. I prodotti ceramici e polimerici (ad eccezione di taluni articoli contenenti bario medicale) non sono radiopachi. Per maggiori informazioni consulta la documentazione di riferimento",
+      "link": "Interazioni tra dispositivi per ortodonzia e implantologia dentale e indagini diagnostiche per immagini",
+      "info": "Maggiori informazioni"
+    },
+    "schede_di_sicurezza": {
+      "numero_telefonico": "Numeri telefonici per le emergenze"
+    },
+    "sistema_di_qualita": {
+      "title": "Qualità",
+      "subtitle": "Qualità per la soddisfazione del cliente",
+      "text": "Il segreto per garantire una buona qualità del prodotto sta nel soddisfare o superare le aspettative del cliente: conoscere le aspettative del cliente è il primo passo e forse il più importante per arrivare a fornire un prodotto di qualità, un prodotto standardizzato di qualità. È da sempre politica della Leone realizzare prodotti di qualità superiore nel rispetto delle aspettative e delle esigenze del cliente e nel rispetto delle disposizioni cogenti, pertanto ogni funzione aziendale, a tutti i livelli, è chiamata a fare propri tali obiettivi supportando la Direzione nell’attuazione delle necessarie strategie operative. Il sistema di gestione per la qualità della società Leone è conforme ai requisiti della ISO 9001, alle prescrizioni aggiuntive della ISO 13485, ai sensi di quanto indicato dalle disposizioni europee sui dispositivi medici e alla ISO 13485 MDSAP per i requisiti regolatori di Australia, Brasile, Canada, Giappone e USA.",
+      "link1_title": "Schede di sicurezza",
+      "link1_url": "/schede-di-sicurezza",
+      "link2_title": "Istruzioni",
+      "link2_url": "/istruzioni",
+      "link3_title": "Simbologia etichetta",
+      "link3_url": "sistema-di-qualita/info-prodotti",
+      "link4_title": "Informativa per i distributori",
+      "link4_url": "sistema-di-qualita/info-distributori",
+      "link5_title": "Interazioni tra dispositivi per ortodonzia",
+      "link5_url": "https://www.leone.it/servizi/qualita/LeoneSpa_RMI-TC_Dicembre2022.pdf",
+      "link6_title": "Nota informativa per operatori sanitari su Registrazione UDI",
+      "link6_url": "https://www.leone.it/servizi/qualita/Leone%20Spa%20-%20Nota%20informativa%20per%20operatori%20sanitari%20su%20Registrazione%20UDI.pdf"
+    },
+    "info-prodotti": {
+      "title": "Qualità",
+      "text": "Assieme alla Marcatura CE è obbligo fondamentale del fabbricante corredare di informazioni ogni dispositivo che venga posto sul mercato. Le informazioni necessarie per identificare il prodotto, per garantire un’utilizzazione sicura, per consentire di identificare il fabbricante, di rintracciare il prodotto, sono riportati sull’etichetta e quando necessario nelle istruzioni per l’uso. Etichetta e istruzioni per l’uso sono fornite dalla Leone in più lingue. E’ di fondamentale importanza che tutte le informazioni che il fabbricante ha ritenuto di legare al prodotto, quelle che figurano sul dispositivo stesso e/o sull’imballaggio unitario o, eventualmente, sull’imballaggio commerciale, siano mantenute durante tutti i passaggi della commercializzazione e pervengano integre agli utilizzatori finali.",
+      "under_image": "*Salvo diversa indicazione, il numero di LOTTO spiega la data di produzione con la chiave YYMMDDNN (YY anno, MM mese, DD giorno, NN Leone numero interno progressivo del lotto). Ad esempio: 18021902 indica il lotto n. 2 del 19 febbraio 2018."
+    },
+    "info_distributori": {
+      "title": "Qualità",
+      "subtitle": "Nota informativa per i Distributori: Regolamento Europeo sui Dispositivi Medici, tracciabilità e nuovi adempimenti",
+      "text": "Il Regolamento Europeo (UE) 2017/745 sui Dispositivi Medici (MDR), entrato in vigore il 26 maggio 2021, impone obblighi di conformità non solo ai fabbricanti ma anche a tutti gli altri operatori economici della filiera, come i 'distributori' (nell’accezione di quanto specificatamente definito nel regolamento stesso), in merito alla verifica, alla tracciabilità nonché alla sorveglianza post-vendita (ad esempio la notifica al fabbricante in merito ad eventuali non conformità, reclami o presunti incidenti). Per ulteriori informazioni, vi invitiamo a consultare il seguente sito: https://ec.europa.eu/docsroom/documents/33862 dove è possibile trovare una scheda informativa emanata dalla Commissione Europea, disponibile nella lingua di ogni paese membro. Nell’ambito dei dispositivi dentali forniti da Leone Spa sono presenti anche prodotti che si qualificano come dispositivi medici per utilizzo dentale, e in quanto rivenditore dei suddetti prodotti, la vostra organizzazione assumerà la qualifica di 'distributore', ai sensi del regolamento sopracitato. Tra gli obblighi del distributore (Art. 14 del MDR) c’è quello relativo alla rintracciabilità dei dispositivi medici (Art. 25 del MDR), che deve essere documentata e resa disponibile per i controlli delle autorità competenti, fino a 15 anni per i dispositivi medici impiantabili, 10 anni per gli altri dispositivi medici dentali. Leone S.p.a. pone da sempre la massima attenzione al rispetto delle normative vigenti. Cogliamo quindi l’occasione per ricordarvi l’importanza del rispetto dei nuovi dettami legislativi per garantire la continuità delle nostre relazioni commerciali."
+    }
+  },
+
+  
+
+  "chi_siamo": {
+    "description_1": {
+      "title": "Azienda Leone: affidabilità e competenza",
+      "text": "Professionalità, esperienza e innovazione fanno della Leone l'azienda italiana leader nella produzione di prodotti odontoiatrici. Attenta alla rapida evoluzione del mercato e alle esigenze dei clienti, l'azienda pone particolare attenzione alla capacità produttiva, alla qualità e al servizio: la forza vendita qualificata lavora a stretto contatto con una rete di distributori esclusivi, fornendo al contempo formazione tecnica e supporto. La grande attenzione al dettaglio è inoltre il motivo per cui la Leone è sinonimo di alta qualità: ogni singolo prodotto viene progettato in modo scrupoloso e attento."
+    },
+    "description_2": {
+      "title": "Cultura e formazione",
+      "text": "La Leone organizza e promuove una vasta gamma di attività scientifiche e didattiche di apprendimento e approfondimento. Corsi di ortodonzia teorici e clinico-pratici o di chirurgia orale base ed avanzata sono solo alcuni esempi del vasto programma di formazione e aggiornamento tecnico-scientifico per medici, odontotecnici e operatori commerciali che l'azienda propone. L'azienda si occupa in prima persona anche della gestione e della promozione di queste attività, collaborando con relatori, docenti universitari e professionisti altamente specializzati per l'organizzazione dei corsi e per la stesura e la pubblicazione di articoli scientifici. Mediante l'utilizzo di nuovi canali digitali, inoltre, la Leone affianca la formazione in presenza e di parte pratica con la formazione a distanza, garantendo una continua divulgazione didattica. Stretta anche la collaborazione con numerose Università italiane, in particolar modo con le facoltà di Ingegneria e Medicina e Chirurgia, con le quali vengono organizzati stage e tesi."
+    },
+    "description_3": {
+      "title": "Una realtà sempre in crescita",
+      "text": "Importanti investimenti annui sono riservati alla ricerca e alla tecnologia: all'interno degli stabilimenti della Leone si trova il Centro Ricerche Biotecnologiche Dentali 'Marco Pozzi', dove si effettuano, con strumentazione all'avanguardia, test di controllo qualità, studi su materiali e superfici ed analisi tecniche su nuovi prodotti. L'alta qualità di tutti i prodotti Leone è infatti il risultato di sofisticate tecniche di fabbricazione e di un accurato controllo di qualità conforme alle normative UNI EN ISO 9001 e ISO 13485: dal 1934, l'animo dell'azienda Leone è teso a garantire l'impegno di un continuo e costante miglioramento del prodotto per la soddisfazione del cliente."
+    },
+    "description_4": {
+      "title": "Dietro l’innovazione: la nostra storia",
+      "text": "L'azienda, oggi realtà industriale di alto livello tecnologico e commerciale, nasce da una piccola attività artigianale nel 1934, grazie a Mario Pozzi. Poco tempo dopo, ha deciso di adottare la testa del Marzocco, simbolo di fiorentinità per eccellenza, come marchio, dando così inizio alla storia della Leone. Venuto a mancare nel 1961, è stato il figlio Alessandro a proseguire l'attività, sviluppando la produzione e la commercializzazione del prodotto Leone in Italia e all'estero. Per anni Alessandro ha lavorato incessantemente, raggiungendo gli odierni traguardi, affiancato, dalla fine degli anni '90, dalla figlia Elena, l'attuale Amministratore Unico dell'azienda. Dal 1993 la Leone fa parte dell'OMA (Orthodontic Manufacturers Association – USA), che riunisce a sé le 12 industrie mondiali fabbricanti di prodotti per ortodonzia. Nel 2002 l'azienda ha esteso la propria produzione, immettendo sul mercato dentale il 'Sistema Implantare Leone', una linea completa di prodotti per implantologia. Nel 2017 è avvenuta l'acquisizione di LeoneAmerica, distributore del mercato USA, ed il rafforzamento delle attività di vendita attraverso investimenti nella partecipata francese Odontec. Infine, nel 2019, dall'esperienza della Leone, è nata Digital Service Leone, la startup innovativa che supporta Odontoiatri e Ortodontisti con prodotti e strumenti ad alto contenuto digitale. DSL trae origine dall'esperienza di ricerca della società capogruppo e si arricchisce di nuovi servizi di supporto IT grazie alla partecipazione di Adiacent by Var Group, uno dei più grandi attori alla guida della trasformazione digitale delle aziende italiane. Ad oggi, la Leone si estende su una superficie di circa 15.000 mq e ospita stabilimenti produttivi e industriali, dove operano circa 160 persone."
+    }
+  },
+
+  "90anni": {
+    "new_global_identity2": {
+      "title1": "Guardando al futuro con una nuova immagine",
+      "paragraph1": "Conosciamo bene l’importanza della tradizione, ma siamo anche consapevoli che l’evoluzione è una costante inevitabile. Questo ci ha portato a una profonda riflessione sulla nostra immagine aziendale e ci ha condotti verso un rinnovamento che coniugasse con saggezza il passato e il futuro. Il cambio del logo, una delle parti più visibili e riconoscibili dell’identità aziendale, ha rappresentato un processo complesso. Abbiamo deciso di mantenere intatto il design, elemento distintivo del nostro logo e simbolo che è diventato riconoscibile nel corso dei decenni, ma allo stesso tempo abbiamo apportato modifiche sottili, ma significative.",
+      "paragraph2": "Il carattere retrò degli anni ‘60 è stato raffinato e modernizzato, mentre le linee e i colori sono stati resi più vivaci e contemporanei. Questo rinnovamento non rappresenta un distacco dalla nostra tradizione, ma piuttosto una dimostrazione del nostro slancio verso il futuro. La rimozione dell’ovale e l’inclinazione delle lettere hanno rappresentato il simbolo tangibile di questa nuova direzione, che testimonia la determinazione dell’azienda ad andare oltre i confini predefiniti, le tradizioni consolidate e i limiti. L’obiettivo è rimanere all’avanguardia, abbracciando il cambiamento e conferendo un’identità globale sia a Leone che alle sue controllate. Da un punto di vista grafico il logo è stato ottimizzato per garantire un’efficace visualizzazione su mobile, all’ampia superficie di uno stand. Questo cambiamento ha rappresentato un passaggio molto significativo, con un impatto rilevante sulla percezione dell’azienda. Ha dato vita a un nuovo logo che, pur conservando il design del nome Leone, elemento iconico del marchio, è stato progettato e realizzato per essere dinamico, moderno, flessibile e, soprattutto, per valorizzare ciò che rappresenta l’azienda oggi: una realtà solida che guarda al futuro.",
+      "title2": "Un impegno tangibile",
+      "paragraph3": "Per quasi un secolo, abbiamo costruito la nostra azienda con il duro lavoro, l’innovazione e l’impegno verso i clienti. Siamo stati capaci di resistere alle sfide economiche, ai cambiamenti tecnologici e alle dinamiche del settore, emergendo sempre più forti e pronti a fronteggiare nuove sfide, stabilendo standard di qualità elevati e fornendo prodotti e servizi che hanno migliorato la vita di molte persone in tutto il mondo. La nostra tradizione è una fonte di orgoglio, ma riconosciamo anche la necessità di evolverci per restare al passo con i tempi. Il mondo sta cambiando rapidamente, siamo testimoni di una crescente consapevolezza ambientale e della necessità di affrontare sfide globali come il cambiamento climatico. Come azienda, riteniamo che sia doveroso abbracciare il cambiamento e assumere la responsabilità per il nostro impatto sull’ambiente e sulla società. Siamo entusiasti di condividere questo viaggio con voi, i nostri partner e i nostri clienti, mentre insieme costruiamo un futuro migliore per tutti!"
+    },
+
+    "storia": {
+      "main-title": "Dietro l'innovazione, la nostra storia",
+      "title1": "Anni '30 - '40",
+      "text1": "Negli anni '30 e '40, la ditta Mario Pozzi viene fondata nel 1934 per produrre capsule dentali in acciaio inossidabile. Durante la Seconda Guerra Mondiale, reperire materie prime diventa difficile a causa delle priorità militari, riducendo la produzione al minimo. Firenze subisce bombardamenti, ma l'officina di Pozzi rimane illesa. Nonostante le difficoltà, l'azienda persevera e, alla fine della guerra, trasferisce la produzione in un laboratorio più grande. Nel 1945, con il marchio Leone, diventa il principale produttore italiano di capsule dentali in acciaio e altri prodotti per il settore dentale.",
+      "title2": "Anni '50 - '60",
+      "text2": "Negli anni '50 e '60, l'Europa Occidentale visse una fase di intensa industrializzazione e sviluppo, e l'Italia registrò una crescita economica senza precedenti, il 'Miracolo economico'. Questa trasformazione portò all'incremento dei consumi e a nuovi stili di vita, con automobili, elettrodomestici e televisione diventati comuni. I salari aumentarono, diffondendo benessere in più strati sociali, soprattutto nei centri urbani. Nel 1961, Mario morì a 54 anni. Durante il boom economico, suo figlio Alessandro spostò la produzione della Leone verso l'ortodonzia, settore in crescita, influenzato dal modello americano di salute e bellezza. La scelta di Alessandro si dimostrò vincente, consentendo alla Leone di innovare, crescere e avere successo nella comunità odontoiatrica italiana e internazionale.",
+      "italic1": "“Un bambino senza sorriso è come un giardino senza fiori.”",
+      "title3": "L’alluvione di Firenze nel 1966",
+      "italic2": "“Per mezza Toscana si spazia un fiumicel che nasce in Falterona, e cento miglia di corso nol sazia”. Dante (Purgatorio)",
+      "text3": "Nella notte tra il 3 e il 4 novembre 1966, Firenze fu colpita da una devastante alluvione causata dallo straripamento dell'Arno dopo intense piogge. Molti quartieri, incluso il centro storico, furono sommersi da acque che superarono i cinque metri di altezza. L'alluvione causò danni economici e artistici incalcolabili. La Leone, con la sua officina in Via Galliano, fu anch'essa sommersa dalle acque fangose del fiume. Nonostante i danni, grazie alla determinazione di Alessandro e dei suoi collaboratori, l'azienda riprese la produzione e soddisfece gli ordini dopo poco più di un mese, dimostrando grande resilienza di fronte alla devastazione.",
+      "title4": "La nuova era",
+      "text4": "Nel 1969, quando l’astronauta Neil Armstrong mise piede sul suolo lunare, pronunciò le iconiche parole:“Un piccolo passo per l’uomo, ma un balzo enorme per l’umanità”. La Leone ha vissuto una crescita continua e significativa dal suo inizio, diventando un leader nel settore ortodontico e implantare. Negli anni '70, l'azienda si espanse internazionalmente e introdusse una linea di ortodonzia fissa in Italia. Negli anni '80, sotto l'impulso economico dell'era Craxi, si trasferì in una nuova sede e crea con la ISO (Istituto Studi Odontoiatrici) una attività didattica programmata e organizzata che riscuote fin da subito un grande successo. Gli anni '90 videro la Leone produrre internamente la propria linea di ortodonzia fissa, portando alla costruzione di un nuovo sito industriale a Sesto Fiorentino. Dagli anni 2000, l'azienda lanciò una linea implantare innovativa e abbracciò le tecnologie digitali emergenti. Oggi, sotto la guida di Elena Pozzi, la Leone continua il suo percorso di crescita e innovazione.",
+      "title5": "Il nuovo millennio",
+      "text5": "Negli anni 2000, Leone ha fatto passi significativi nel settore dell'implantologia con il rivoluzionario sistema Exacone. Parallelamente, l'Euro è diventato la moneta unica e la tecnologia digitale ha subito una rapida evoluzione. Nel 2010, Elena Pozzi ha assunto la guida dell'azienda, introducendo innovazioni come i dispositivi antirussamento e il Leaf Expander, oltre a fondare il reparto 3DLeone per software odontoiatrici. Nel 2019, Leone ha lanciato Digital Service Leone, specializzata in ortodonzia invisibile. La pandemia di Covid-19 nel 2020 ha accelerato la digitalizzazione e riorganizzato i contatti sociali. Leone ha aperto filiali in America e Francia, e i figli di Elena, Olivia e Vittorio, rappresentano la quarta generazione della famiglia, pronti a portare avanti l'azienda con una visione moderna."
+    },
+
+    "title": "La tradizione incontra il futuro, il nostro viaggio a 90 anni dalla fondazione",
+    "intro1": "2024 un traguardo straordinario: 90 anni di impegno, dedizione e successo. Un percorso che ci ha portato attraverso decenni di cambiamenti, innovazioni e crescita costante. Ma come possiamo onorare la nostra lunga tradizione e, allo stesso tempo, guardare al futuro?",
+    "intro2": "La risposta è semplice e possiamo riassumerla in poche parole: Tradition Meets the Future. Il nuovo claim rappresenta un ponte tra passato e presente, tra le radici profonde dell’azienda e l’aspirazione a innovare e crescere con una visione audace e orientata al futuro, con particolare attenzione al mondo del digitale.",
+    "new_global_identity": "New global identity",
+    "history": "Dietro l'innovazione e la nostra storia"
+  },
+
+  "urls": {
+    "about_us": "chi-siamo",
+    "90_years": "90-anni-leone",
+    "careers": "lavora-con-noi",
+    "whistleblowing": "whistleblowing",
+    "contacts": "contatti",
+    "orthodontics": "ortodonzia",
+    "implantology": "implantologia",
+    "courses_events": "servizi-digitali",
+    "azienda": "azienda"
+  },
+  "footer": {
+    "services": "Servizi",
+    "downloads": "Download",
+    "newslist": "Newslist",
+    "customer_support": "Assistenza Clienti",
+    "restricted_area": "Area Riservata",
+    "whistleblowing": "Whistleblowing",
+    "scientific_publications": "Pubblicazioni Scientifiche",
+    "orthodontics": "Ortodonzia",
+    "implantology": "Implantologia",
+    "quality": "Qualità",
+    "quality_system": "Sistema di Qualità",
+    "safety_sheets": "Schede di Sicurezza",
+    "instructions": "Istruzioni",
+    "distributors": "Distributori",
+    "careers": "Carriere",
+    "copyright": "© 2024 Leone SpA. Tutti i Diritti Riservati."
+  },
+
+  "login": {
+    "title": "Entra nel tuo account personale Leone"
+  },
+
+  "register": {
+    "title": "Crea il tuo account Leone",
+    "name": "Nome",
+    "cognome": "Cognome",
+    "attivita": "Attività Commerciale (opzionale)",
+    "paese": "Seleziona Paese",
+    "indirizzo": "Indirizzo",
+    "cap": "Cap",
+    "citta": "Città",
+     "professione": {
+      "title": "Professione",
+      "clinica": "CLINICA DENTALE",
+      "dentista": "DENTISTA",
+      "laboratorio": "LABORATORIO"
+    },
+    "registrati": "Registrati"
+  },
+
+  "cookiePolicyTitle": "Cookie policy",
+  "cookiePolicyDescription": "Leone S.p.a., con sede legale a Sesto Fiorentino (FI), Via P. a Quaracchi, n° 50, P. IVA n° 01686960483, in qualità di Titolare del trattamento dei dati, tramite il legale rappresentante pro tempore, informa i visitatori del sito www.leone.it – ai sensi e per gli effetti dell’articolo 13 del Regolamento UE 2016/679 (Regolamento Generale sulla Protezione dei Dati, di seguito GDPR) – circa il tipo di cookie utilizzati e le finalità perseguite attraverso le informazioni così acquisite.",
+
+  "whatAreCookies": "Cosa sono i cookie e a cosa servono",
+  "whatAreCookiesDescription": "I cookie sono piccole stringhe di testo che il sito invia al dispositivo dell'utente (solitamente al browser), dove vengono memorizzati per poi essere ritrasmessi allo stesso sito alla successiva visita dell'utente (cosiddetti cookie di prima parte). Essi aiutano il Titolare del trattamento a fornire il servizio in base alle diverse finalità perseguite. Alcune di queste finalità potrebbero richiedere il consenso dell'utente; tale consenso può essere revocato liberamente in qualsiasi momento seguendo le istruzioni presenti in questo documento.",
+
+  "cookieTypes": "Tipi di Cookie",
+  "cookieTypesDescription": "I cookie possono essere limitati a una singola sessione di navigazione (cosiddetti cookie di sessione) e vengono disabilitati automaticamente alla chiusura del browser, oppure possono avere una scadenza prestabilita (cosiddetti cookie persistenti) e rimanere attivi fino a tale momento, continuando a raccogliere informazioni durante più sessioni di navigazione. Per una descrizione completa di questi strumenti, sono necessarie ulteriori distinzioni basate sulle loro caratteristiche tecniche. I cookie vengono utilizzati per varie funzioni: alcuni sono necessari per consentire all'utente di navigare nel sito e utilizzarne le funzionalità (cookie tecnici); altri vengono utilizzati per ottenere informazioni statistiche, in forma aggregata o non, sul numero di utenti che accedono al sito e su come viene utilizzato (cosiddetti cookie di analisi); altri ancora sono utilizzati per tracciare il profilo del consumatore e consentire all'utente di visualizzare annunci pubblicitari in linea con i suoi gusti e abitudini di consumo (cosiddetti cookie di profilazione).",
+
+  "googleAnalytics": "Google Analytics",
+  "googleAnalyticsDescription": "Il nostro sito web utilizza un cookie di terze parti, ovvero Google Analytics. Questo cookie non è di nostra proprietà, e per ulteriori informazioni è possibile consultare l'informativa di Google al seguente link: http://www.google.it/policies/privacy/partners/. Se preferisci che Google Analytics non utilizzi in alcun modo i dati raccolti, puoi: utilizzare la navigazione anonima (Do Not Track) del tuo browser. Per sapere come attivare questa opzione nei principali motori di ricerca, clicca sul browser che utilizzi: Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari. Per disabilitare Google Analytics, puoi installare il componente aggiuntivo del browser per la disattivazione.",
+
+  "cookieTable": {
+    "name": "Nome",
+    "domain": "Dominio",
+    "path": "Percorso",
+    "value": "Valore",
+    "description": "Descrizione",
+    "phpSessionDescription": "Inizio sessione PHP",
+    "bannerDentalDescription": "Banner per i professionisti del settore odontoiatrico",
+    "bannerPolicyDescription": "Banner della politica sui cookie",
+    "googleAnalyticsDescription": "Google Analytics"
+  },
+
+  "howToDisableCookies": "Come disabilitare i cookie",
+  "howToDisableCookiesDescription": "I cookie tecnici e funzionali vengono installati automaticamente e non richiedono il consenso dell'utente. Tuttavia, l'utente può decidere in generale se accettare i cookie direttamente attraverso le impostazioni del proprio browser e impedire, ad esempio, l'installazione da parte di terzi, seguendo le procedure descritte ai seguenti indirizzi:",
+
+  "browserInstructions": {
+    "edge": "Microsoft Edge:",
+    "edgeLink": "https://support.microsoft.com/it-it/windows/microsoft-edge-dati-delle-esplorazioni-e-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd",
+    "firefox": "Mozilla Firefox:",
+    "firefoxLink": "https://support.mozilla.org/it/kb/Attivare%20e%20disattivare%20i%20cookie",
+    "chrome": "Google Chrome:",
+    "chromeLink": "https://support.google.com/chrome/answer/95647?hl=it",
+    "safari": "Safari:",
+    "safariLink": "https://support.apple.com/it-it/HT201265",
+    "opera": "Opera:",
+    "operaLink": "http://help.opera.com/Windows/10.00/it/cookies.html"
+  },
+
+  "rights": "Diritti",
+  "rightsDescription": "È possibile esercitare i propri diritti in qualsiasi momento ai sensi degli articoli 15 e seguenti del Regolamento UE 2016/679. Per maggiori informazioni su come esercitare i tuoi diritti, consulta l'informativa sulla privacy.",
+
+  "privacy_policy": {
+    "title": "Informativa sul trattamento dei dati personali",
+    "subtitle": "ai sensi dell’art. 13 del Regolamento UE 679/2016 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali (‘GDPR’)",
+    "intro": "Con la presente informativa, Leone S.p.a. fornisce le informazioni relative al trattamento dei dati personali dell’Utente effettuato mediante questo Sito Web www.leone.it, confermando sin da ora che tale trattamento sarà improntato ai principi di correttezza, liceità, trasparenza e di tutela della riservatezza e dei diritti dell’Utente.",
+    "section1_title": "1. Titolare del trattamento",
+    "section1_content": "Il Titolare del trattamento è Leone S.p.a., con sede legale in Sesto Fiorentino (FI), Via P. a Quaracchi, n° 50, P. IVA n° 01686960483, nella persona del legale rappresentante pro tempore. Indirizzo mail: privacy@leone.it",
+    "section2_title": "2. Tipologia di dati trattati",
+    "section2_content": "Leone S.p.a. può trattare i dati relativi alle visite dell’Utente sul sito web, ma anche ogni altro dato raccolto nelle varie sezioni del sito stesso e/o tramite i vari canali di contatto messi a disposizione. Di seguito, si riporta l’elenco dei dati oggetto di trattamento:",
+    "data_navigation": "Dati di navigazione: i sistemi informatici e le procedure software preposte al funzionamento di questo sito web potrebbero acquisire, nel corso del loro normale esercizio, alcuni dati la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet.",
+    "data_cookies": "Dati relativi ai Cookie (per ogni altra informazione più dettagliata si rimanda alla Cookie policy).",
+    "data_cv": "Dati anagrafici, di contatto, informazioni relative alla formazione, alle competenze e alla occupazione attuale acquisiti tramite il form “Lavora con noi”, nonché qualsiasi altri dato presente nel CV allegato (compresi dati particolari ed eventuale fotografia).",
+    "data_email": "Dati raccolti a seguito di invio da parte dell’Utente di richieste tramite posta elettronica agli indirizzi mail di contatto indicati sul sito al fine di ricevere informazioni o richiedere uno specifico servizio.",
+    "data_forms": "Dati anagrafici, di contatto, nonché la professione, forniti dall’Utente attraverso i vari form presenti nel sito (Download File STL, Formazione, Newslist, Iscrizione alla Newsletter e Area riservata).",
+    "data_billing": "Dati anagrafici, di contatto, di fatturazione e di pagamento forniti dall’Utente per richiedere una prova gratuita del software 3D Leone Designer e/o per acquistare lo stesso.",
+    "section3_title": "3. Conferimento dei dati",
+    "section3_content": "Il conferimento di dati personali contrassegnati da asterisco (*) è obbligatorio per inviare la richiesta e/o usufruire del servizio ed un eventuale rifiuto a fornirli comporterebbe l’impossibilità di inoltrare la stessa ed ottenere il servizio desiderato. Il conferimento di ulteriori dati è puramente facoltativo.",
+    "section4_title": "4. Finalità del trattamento e basi giuridiche",
+    "section4_content": "I dati forniti saranno oggetto di trattamento nel rispetto delle condizioni di liceità ai sensi dell’articolo 6 del GDPR per le seguenti finalità:",
+    "section4_contractual": "Per dare esecuzione a tutte le misure contrattuali e precontrattuali adottate su richiesta dell’Utente interessato nonché a tutte le esigenze operative e gestionali correlate.",
+    "section4_legal": "Per ottemperare agli obblighi di legge cui è soggetto il Titolare del trattamento.",
+    "section4_registration": "Per consentire all’Utente di registrarsi nella sezione “Area riservata” e/o di usufruire dei servizi offerti tramite le varie sezioni del sito.",
+    "section4_requests": "Per dare esecuzione alle richieste dell’Utente e rispondere alle domande formulate attraverso i vari canali di contatto.",
+    "section4_newsletter": "Soltanto previo espresso consenso i dati potranno essere trattati per offrirle il servizio di newsletter e/o newslist.",
+    "newsletter1": "Newsletter: comunicazioni su prodotti, eventi e attività formative;",
+    "newsletter2": "Bollettino di informazione Leone: articoli con applicazioni cliniche dei prodotti Leone e informazioni commerciali sui nuovi prodotti;",
+    "newsletter3": "Exacone News: articoli con applicazioni cliniche e informazioni sui nuovi prodotti;",
+    "newsletter4": "Catalogo di Ortodonzia aggiornato;",
+    "newsletter5": "Catalogo di Implantologia aggiornato;",
+    "newsletter6": "Depliants prodotti Implantologia;",
+    "newsletter7": "Depliants prodotti Ortodonzia;",
+    "newsletter8": "Depliants sui materiali rigenerativi (Biomimetic line);",
+    "newsletter9": "Depliants Attività Didattica ISO-Leone.",
+    "section5_content": "Il Titolare esegue i trattamenti necessari nel rispetto delle normative. I dati verranno conservati per il tempo necessario al raggiungimento delle finalità per cui sono stati raccolti e per adempiere agli obblighi previsti dalla legge.",
+    "section6_title": "6. Trasferimento di dati",
+    "section6_content": "I suoi dati personali sono conservati su server ubicati all’interno dell’Unione Europea e non viene effettuato alcun trasferimento extra-UE.",
+    "section7_title": "7. Categorie di destinatari dei dati",
+    "section7_content": "I dati dell’Utente non verranno diffusi, divulgati o resi noti a soggetti indeterminati in nessun modo.",
+    "section7_legal_access": "Dati accessibili in caso di obblighi di legge.",
+    "section7_third_parties": "Non vengono condivisi con terze parti.",
+    "section7_dealers": "Accessibili solo ai rivenditori autorizzati.",
+    "section7_other_companies": "Non saranno condivisi con altre aziende.",
+    "section8_title": "8. Diritti dell'interessato",
+    "section8_content": "Ai sensi degli artt. 15 e ss. del GDPR, l'Utente potrà esercitare, in qualsiasi momento e ove applicabili, i seguenti diritti:",
+    "rights_access": "Accedere ai dati personali oggetto del trattamento.",
+    "rights_deletion": "Richiedere la rettifica o la cancellazione dei propri dati.",
+    "rights_opposition": "Richiedere di opporsi al trattamento.",
+    "rights_portability": "Richiedere la portabilità dei dati.",
+    "rights_withdrawal": "Revocare il consenso al trattamento dei dati.",
+    "section8_contact": "Per qualsiasi informazione e per esercitare i diritti sopra indicati, l’Utente potrà contattare il Titolare del trattamento all’indirizzo email privacy@leone.it.",
+    "section8_reclamation": "Qualora ritenga che il trattamento non sia conforme al GDPR, l’Utente ha il diritto di presentare reclamo all’autorità di controllo."
+  }
+}

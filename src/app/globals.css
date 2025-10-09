@@ -1,26 +1,143 @@
 @import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../../.flowbite-react/class-list.json";
+
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+    --colore-primario: #0d4fd1;
+    --grigio: #f7f9ff;
+    --bianco: #fff;
+    --unita-base: 12px;
+    --grigio-hover: #e0e7ff;
+    --colore-secondario: #e30b21;
+    --margine: calc(var(--unita-base) * 20);
+    --verde: #40c7bc;
+    --altezza-corpo: 800px;
+    --giallo-edita: #FFDe21;
+    --giallo-cancella: #e1ad01;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.blue {
+    color: var(--colore-primario);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.white {
+    color: var(--bianco);
+}
+
+.red {
+    color: var(--colore-secondario);
+}
+
+.yellow {
+    color: var(--giallo-edita);
+}
+
+.bg-yellow {
+    background-color: var(--giallo-edita);
+}
+
+.yellow-dark {
+    color: var(--giallo-cancella);
+}
+
+.bg-yellow-dark {
+    background-color: var(--giallo-cancella);
+}
+
+.bg-blue {
+    background-color: var(--colore-primario);
+}
+
+.bg-red {
+    background-color: var(--colore-secondario);
+}
+
+.grey {
+    color: var(--grigio);
+}
+
+.bg-grey {
+    background-color: var(--grigio);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+    font-family: neue-haas-grotesk-display !important;
+    background-color: var(--colore-primario);
+}
+
+main {
+    min-height: 700px;
+    margin-top: 100px;
+    padding-bottom: 100px;
+    background-color: var(--bianco);
+}
+
+h1 {
+    font-size: 2.125em;
+}
+
+h2 {
+    font-size: 1.875em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1.25em;
+}
+
+h5 {
+    font-size: 1.125em;
+}
+
+h6 {
+    font-size: 1rem;
+}
+/*vedi se lasciarlo*/
+p {
+    font-size: 18px;
+}
+
+.img-container {
+    aspect-ratio: 3/1;
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+
+.mobile-searchbar .input-group {
+    flex-wrap: nowrap;
+}
+
+@media screen and (max-width: 1192px) {
+    header .mobile-searchbar {
+        display: none;
+    }
+}
+
+/* Mobile first: 1/1 aspect ratio */
+.img-container {
+    pointer-events: none;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+/* Tablet: 2/1 aspect ratio for screens 768px and wider */
+@media (min-width: 768px) {
+    .img-container {
+        aspect-ratio: 2 / 1;
+    }
+}
+
+/* Desktop: 3/1 aspect ratio for screens 1024px and wider */
+@media (min-width: 1024px) {
+    .img-container {
+        aspect-ratio: 3 / 1;
+    }
 }
