@@ -1,6 +1,5 @@
 "use client";
 
-import "./style.css";
 import IsoClient from "./IsoClient";
 import Image from "next/image";
 import Link from "next/link";
