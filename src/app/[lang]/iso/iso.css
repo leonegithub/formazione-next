@@ -1,0 +1,73 @@
+.iso-info {
+    min-height: var(--altezza-corpo);
+
+    .img-container {
+        pointer-events: all;
+    }
+
+    .carosello {
+        .carousel-inner {
+            height: 600px;
+        }
+    }
+
+    .iso-contatti {
+        .left {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            max-height: 100%;
+        }
+
+        .right {
+            max-height: 100%;
+            max-width: 100%;
+        }
+
+        .iso-logo {
+            object-fit: cover;
+        }
+    }
+
+    /* Stili per le card dei corsi */
+    .sezione-corsi-evidenza {
+        h5 {
+            text-align: center;
+            background-color: var(--colore-primario);
+            margin-bottom: 0 !important;
+            color: var(--bianco);
+            padding: var(--unita-base) 0;
+            height: 72px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
+
+.download-magazines {
+    background-color: var(--grigio);
+    justify-content: space-between;
+}
+
+.download-link{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    img {
+        object-fit: cover;
+    }
+}
+
+.carosello img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+@media screen and (max-width: 768px) {
+    .right {
+        display: none;
+    }
+}

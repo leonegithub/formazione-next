@@ -1,0 +1,75 @@
+.giornatelive p {
+    padding: 5px 0;
+}
+
+.corsi-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+@media (min-width: 700px) {
+  .corsi-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.corso-singolo {
+  background: #fff;
+  border-radius: 16px;
+  padding: 1.5rem;
+  transition: box-shadow 0.2s;
+  gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (min-width: 992px) {
+  .corso-singolo {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+.corso-immagine img {
+  border-radius: 12px;
+  object-fit: cover;
+  max-width: 300px;
+  height: 200px;
+}
+
+.corso-desc {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.corso-top .titolo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.corso-bottom p {
+  margin: 0.25rem 0;
+}
+
+.corso-relatori {
+  margin-top: 1rem;
+  font-size: 1rem;
+  color: #374151;
+}
+
+.corso-file a {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.2s;
+}

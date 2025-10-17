@@ -1,0 +1,21 @@
+.eventi {
+
+
+  .row > * {
+    padding-left: 0;
+  }
+
+  .sezione {
+    margin: calc(var(--unita-base) * 4) 0;
+    img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  }
+
+  .btn-ads {
+    background-color: var(--colore-secondario);
+    color: var(--bianco);
+    margin: calc(var(--unita-base) * 0.5) 0;
+  }
+}

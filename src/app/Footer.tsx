@@ -1,143 +1,112 @@
 import Link from "next/link";
-import { getDictionary} from "@/app/dictionaries";
 import "./footer.css";
 
-export default async function Footer({ params
-                                     }: {
-    params: { lang: "it" | "en" | "es"};
-}) {
-    const { lang } = params;
-    const dict = await getDictionary(lang);
+export default function Footer() {
     return (
         <footer className="bg-gray-200 blue">
-            {/* Widgets Section */}
-            <section className="py-4 md:py-5 xl:py-6 2xl:py-8">
+            {/* Widgets */}
+            <section className="footer-first-section md:py-5 xl:py-6">
                 <div className="container mx-auto px-4">
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-                        <div>
+                        <div className="col-span-1">
                             <div className="link-wrapper">
-                                <div className="mb-1 font-bold">{dict.footer.services}</div>
+                                <div className="mb-1 font-bold">Servizi</div>
                                 <ul className="m-0 list-none pl-0">
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/servizi/downloads`}>
-                                            {dict.footer.downloads}
+                                        <Link href={`https://leoneit-next.vercel.app/it/servizi/downloads`}>Downloads</Link>
+                                    </li>
+                                    <li className="mb-1">
+                                        <Link href={`https://leoneit-next.vercel.app/it/servizi/newslist`}>Newslist</Link>
+                                    </li>
+                                    <li className="mb-1">
+                                        <Link href={`https://leoneit-next.vercel.app/it/servizi/assistenza-clienti`}>
+                                            Assistenza clienti
                                         </Link>
                                     </li>
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/servizi/newslist`}>
-                                            {dict.footer.newslist}
+                                        <Link href={`https://leoneit-next.vercel.app/it/login`}>
+                                            Area Riservata
                                         </Link>
                                     </li>
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/servizi/assistenza-clienti`}>
-                                            {dict.footer.customer_support}
-                                        </Link>
-                                    </li>
-                                    <li className="mb-1">
-                                        <Link href={`/${lang}/login`}>
-                                            {dict.footer.restricted_area}
-                                        </Link>
-                                    </li>
-                                    <li className="mb-1">
-                                        <Link href={`/${lang}/azienda/whistleblowing`}>
+                                        <Link href={`https://leoneit-next.vercel.app/it/azienda/whistleblowing`}>
                                             Whistleblowing
                                         </Link>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div>
+                        <div className="col-span-1">
                             <div className="link-wrapper">
-                                <div className="mb-1 font-bold">
-                                    {dict.footer.scientific_publications}
-                                </div>
+                                <div className="mb-1 font-bold">Pubblicazioni scientifiche</div>
                                 <ul className="m-0 list-none pl-0">
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/pubblicazioni/ortodonzia`}>
-                                            {dict.footer.orthodontics}
+                                        <Link href={`https://leoneit-next.vercel.app/it/pubblicazioni/ortodonzia`}>
+                                            Ortodonzia
                                         </Link>
                                     </li>
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/pubblicazioni/implantologia`}>
-                                            {dict.footer.implantology}
+                                        <Link href={`https://leoneit-next.vercel.app/it/pubblicazioni/implantologia`}>
+                                            Implantologia
                                         </Link>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div>
+                        <div className="col-span-1">
                             <div className="link-wrapper">
-                                <div className="mb-1 font-bold">{dict.footer.quality}</div>
+                                <div className="mb-1 font-bold">Qualità</div>
                                 <ul className="m-0 list-none pl-0">
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/qualita/sistema-di-qualita`}>
-                                            {dict.footer.quality_system}
-                                        </Link>
+                                        <Link href={`https://leoneit-next.vercel.app/it/qualita/sistema-di-qualita`}>Sistema di Qualità</Link>
                                     </li>
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/qualita/schede-di-sicurezza`}>
-                                            {dict.footer.safety_sheets}
-                                        </Link>
+                                        <Link href={`https://leoneit-next.vercel.app/it/qualita/schede-di-sicurezza`}>Schede di Sicurezza</Link>
                                     </li>
                                     <li className="mb-1">
-                                        <Link href={`/${lang}/qualita/istruzioni`}>
-                                            {dict.footer.instructions}
+                                        <Link href={`https://leoneit-next.vercel.app/it/qualita/istruzioni`}>
+                                            Istruzioni
                                         </Link>
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div>
+                        <div className="col-span-1">
                             <div className="link-wrapper">
-                                <div className="mb-1 font-bold">{dict.footer.distributors}</div>
+                                <div className="mb-1 font-bold">Distributori</div>
                                 <ul className="m-0 list-none pl-0">
-                                    {lang === "it" ? (
-                                        <>
-                                            <li className="mb-1">
-                                                <Link href={`/${lang}/distributori/ortodonzia`}>
-                                                    Ortodonzia
-                                                </Link>
-                                            </li>
-                                            <li className="mb-1">
-                                                <Link href={`/${lang}/distributori/implantologia`}>
-                                                    Implantologia
-                                                </Link>
-                                            </li>
-                                        </>
-                                    ) : (
-                                        <li className="mb-1">
-                                            <Link href={`/${lang}/distributori/worldwide`}>
-                                                Worldwide
-                                            </Link>
-                                        </li>
-                                    )}
+                                    <li className="mb-1">
+                                        <Link href={`https://leoneit-next.vercel.app/it/distributori/ortodonzia`}>
+                                            Ortodonzia
+                                        </Link>
+                                    </li>
+                                    <li className="mb-1">
+                                        <Link href={`https://leoneit-next.vercel.app/it/distributori/implantologia`}>
+                                            Implantologia
+                                        </Link>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-            {/* Social Media Section */}
+            {/* Social Media */}
             <div className="pb-4">
                 <div className="container mx-auto px-4">
-                    <div className="grid grid-cols-2 md:grid-cols-12 gap-3 items-start sm:items-center">
-                        <div className="col-span-1 md:col-span-9">
-                            <div className="link-wrapper">
-                                <strong>Leone S.p.A.</strong>
-                                <br/>
-                                Via P. a Quaracchi, 50 - 50019 Sesto Fiorentino, Firenze
-                                <br />
-                                P. IVA 01686960483 Uff. Reg. Imprese Firenze n. 01686960483
-                                <br />
-                                <em>Cap. soc. Euro 1.200.000,00 int. vers.</em>
-                            </div>
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                        <div className="col-span-3 md:col-span-3">
+                            <strong>Leone S.p.A.</strong> <br/>
+                            Via P. a Quaracchi, 50 - 50019 Sesto Fiorentino, Firenze
+                            P. IVA 01686960483 Uff. Reg. Imprese Firenze n. 01686960483
+                            <em>Cap. soc. Euro 1.200.000,00 int. vers.</em>
                         </div>
-                        <div className="col-span-1 md:col-span-3">
-                            <div className="social-media-wrapper">
-                                <ul className="m-0 socials-list list-none pl-0 flex justify-start sm:justify-end">
+                        <div className="col-span-1 md:col-span-1 md:col-start-4">
+                            <div className="social-media-wrapper text-4xl">
+                                <ul className="m-0 socials-list list-none pl-0 flex gap-8 xl:gap-4">
                                     <li>
                                         <Link
-                                            className="pr-3 hover:opacity-75"
+                                            className="hover:opacity-75"
                                             href={`https://www.instagram.com/leone__america/`}
                                             target="_blank"
                                         >
@@ -146,16 +115,17 @@ export default async function Footer({ params
                                     </li>
                                     <li>
                                         <Link
-                                            className="px-3 hover:opacity-75"
+                                            className="hover:opacity-75"
                                             href={`https://www.facebook.com/LeoneAmericaDentalProducts/`}
                                             target="_blank"
                                         >
                                             <i className="fa-brands fa-square-facebook"></i>
                                         </Link>
                                     </li>
+
                                     <li>
                                         <Link
-                                            className="pl-3 hover:opacity-75"
+                                            className="hover:opacity-75"
                                             href={`https://www.linkedin.com/company/leone-america`}
                                             target="_blank"
                                         >
