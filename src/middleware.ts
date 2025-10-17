@@ -1,14 +1,15 @@
-import {NextRequest, NextResponse} from "next/server";
+import { NextRequest, NextResponse } from 'next/server';
 
-export default function Middleware(request: NextRequest) {
-    const pathname = request.nextUrl;
+export function middleware(request: NextRequest) {
+    const { pathname } = request.nextUrl;
 
-    if (pathname === "/")
-        return NextResponse.redirect(new URL("/it"));
+    if (pathname === '/') {
+        return NextResponse.redirect(new URL('/it', request.url));
+    }
 
     return NextResponse.next();
 }
 
 export const config = {
-    matcher: "/";
-}
+    matcher: '/',
+};
